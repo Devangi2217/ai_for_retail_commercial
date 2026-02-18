@@ -1,0 +1,14 @@
+{
+  "generatedAt": "2026-02-18T00:00:00.000Z",
+  "kpis": [
+    { "label": "Revenue Forecast", "value": "$12.8M", "change": "+6.4%" },
+    { "label": "Stockout Risk", "value": "14%", "change": "-2.1%" },
+    { "label": "Promo ROI", "value": "3.8x", "change": "+0.4x" },
+    { "label": "New Demand Signals", "value": "128", "change": "+12" }
+  ],
+  "alerts": [
+    "Price compression detected in electronics.",
+    "Low inventory projected for home essentials.",
+    "Marketplace returns trending above baseline."
+  ]
+}
